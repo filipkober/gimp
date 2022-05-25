@@ -1,0 +1,9 @@
+PLIK  | Adres URL                                                | Trudność
+1.png | https://www.gimpuj.info/index.php/topic,56804.0.html | ★★★☆
+2.png | https://www.gimpuj.info/index.php/topic,36195.0.html | ★★☆☆
+3.png | https://www.gimpuj.info/index.php/topic,26980.0.html | ★★☆☆
+4.png | https://www.gimpuj.info/index.php/topic,02965.0.html | ★★☆☆
+5.png | https://www.gimpuj.info/index.php/topic,00598.0.html | ★★☆☆
+6.png | https://www.gimpuj.info/index.php/topic,18554.0.html | ★★★☆
+7.png | https://www.gimpuj.info/index.php/topic,00105.0.html | ★☆☆☆
+8.png | https://www.gimpuj.info/index.php/topic,00134.0.html | ★★☆☆
